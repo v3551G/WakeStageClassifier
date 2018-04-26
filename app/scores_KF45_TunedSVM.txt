@@ -1,0 +1,96 @@
+
+______________________________________________
+Average scores of 1737 test files
+Classifier: KF45_TunedSVM trained with 500 training file(s)
+Accuracy: 0.773
+AUC: 0.5836
+Precision: 0.9323
+Recall: 0.1707
+F1-score: 0.2552
+______________________________________________
+
+Time taken: 555.875 seconds.
+
+______________________________________________
+Average scores of 1737 test files
+Classifier: KF45_TunedSVM trained with 1000 training file(s)
+Accuracy: 0.7724
+AUC: 0.5816
+Precision: 0.9459
+Recall: 0.1657
+F1-score: 0.2488
+______________________________________________
+
+Time taken: 1123.67700005 seconds.
+
+______________________________________________
+Average scores of 1737 test files
+Classifier: KF45_TunedSVM trained with 1500 training file(s)
+Accuracy: 0.7727
+AUC: 0.5826
+Precision: 0.9402
+Recall: 0.1682
+F1-score: 0.2518
+______________________________________________
+
+Time taken: 1691.76800013 seconds.
+
+______________________________________________
+Average scores of 1737 test files
+Classifier: KF45_TunedSVM trained with 2000 training file(s)
+Accuracy: 0.7725
+AUC: 0.5821
+Precision: 0.943
+Recall: 0.167
+F1-score: 0.2502
+______________________________________________
+
+Time taken: 2257.89199996 seconds.
+
+______________________________________________
+Average scores of 1737 test files
+Classifier: KF45_TunedSVM trained with 2500 training file(s)
+Accuracy: 0.7731
+AUC: 0.5845
+Precision: 0.9239
+Recall: 0.1732
+F1-score: 0.2587
+______________________________________________
+
+Time taken: 2816.3900001 seconds.
+
+______________________________________________
+Average scores of 1737 test files
+Classifier: KF45_TunedSVM trained with 3000 training file(s)
+Accuracy: 0.7727
+AUC: 0.5828
+Precision: 0.9386
+Recall: 0.1687
+F1-score: 0.2524
+______________________________________________
+
+Time taken: 3373.82800007 seconds.
+
+______________________________________________
+Average scores of 1737 test files
+Classifier: KF45_TunedSVM trained with 3500 training file(s)
+Accuracy: 0.7726
+AUC: 0.5822
+Precision: 0.943
+Recall: 0.1673
+F1-score: 0.2506
+______________________________________________
+
+Time taken: 3935.44300008 seconds.
+
+______________________________________________
+Average scores of 1737 test files
+Classifier: KF45_TunedSVM trained with 4000 training file(s)
+Accuracy: 0.7729
+AUC: 0.5832
+Precision: 0.9344
+Recall: 0.1698
+F1-score: 0.2538
+______________________________________________
+
+Time taken: 4505.76699996 seconds.
