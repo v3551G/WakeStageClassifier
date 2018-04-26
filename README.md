@@ -1,9 +1,6 @@
 ### Wake Stage Classifier using Logistic Regression from EEG
 
-Watch the presentation here: 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=uUgaKNPIZF8&t
-" target="_blank"><img src="http://img.youtube.com/vi/uUgaKNPIZF8&t/0.jpg" 
-width="240" height="180" border="10" /></a>
+Watch the presentation [here](https://www.youtube.com/watch?feature=player_embedded&v=uUgaKNPIZF8&t)
 
 Get SHHS dataset from [NSRR website](https://sleepdata.org/datasets/shhs)
 
